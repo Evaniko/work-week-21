@@ -3,4 +3,4 @@ def square(num):
 
 number = int(input("Enter a number: "))
 square_result = square(number)
-print("Square of", number, "is", square_result/)
+print("Square of", number, "is", square_result)
