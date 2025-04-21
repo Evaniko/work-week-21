@@ -1,5 +1,5 @@
 def square(num):
-    return num / num
+    return num * num
 
 number = int(input("Enter a number: "))
 square_result = square(number)
